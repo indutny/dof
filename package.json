@@ -1,0 +1,28 @@
+{
+  "name": "dof",
+  "version": "0.0.0",
+  "description": "DOF (DTrace Object File) parser",
+  "main": "lib/dof.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:indutny/dof.git"
+  },
+  "keywords": [
+    "dof",
+    "dtrace",
+    "parser"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/dof/issues"
+  },
+  "homepage": "https://github.com/indutny/dof",
+  "devDependencies": {
+    "macho": "^0.2.0",
+    "mocha": "^1.17.1"
+  }
+}

@@ -24,5 +24,8 @@
   "devDependencies": {
     "macho": "^0.2.0",
     "mocha": "^1.17.1"
+  },
+  "dependencies": {
+    "endian-reader": "^0.1.0"
   }
 }

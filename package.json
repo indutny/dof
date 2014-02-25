@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/indutny/dof",
   "devDependencies": {
-    "macho": "^0.2.0",
     "mocha": "^1.17.1"
   },
   "dependencies": {
